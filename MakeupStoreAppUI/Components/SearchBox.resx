@@ -117,47 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="icons8-back-arrow-96" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\icons\icons8-back-arrow-96.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="vecteezy_cosmetic-png-graphic-clipart-design_19152527_696" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\icons\vecteezy_cosmetic-png-graphic-clipart-design_19152527_696.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8-sales-performance-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\icons\icons8-sales-performance-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8-search-more-ios-16-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\icons\icons8-search-more-ios-16-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8-cyber-monday-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\icons\icons8-cyber-monday-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8-log-out-kmg-design-glyph-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\icons\icons8-log-out-kmg-design-glyph-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8-add-new-ios-16-filled-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\icons\icons8-add-new-ios-16-filled-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8-close-ios-16-filled-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\icons\icons8-close-ios-16-filled-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8-statistics-report-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\icons\icons8-statistics-report-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8-supplier-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\icons\icons8-supplier-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8-new-product-windows-11-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\icons\icons8-new-product-windows-11-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8-back-arrow-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\icons\icons8-back-arrow-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8-shopping-cart-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\icons\icons8-shopping-cart-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8-broom-ios-16-glyph-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\icons\icons8-broom-ios-16-glyph-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>

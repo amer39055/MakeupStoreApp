@@ -52,6 +52,12 @@
     <Compile Include="AllProductsForm.Designer.cs">
       <DependentUpon>AllProductsForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Components\SearchBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\SearchBox.Designer.cs">
+      <DependentUpon>SearchBox.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormMainMenu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +68,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="AllProductsForm.resx">
       <DependentUpon>AllProductsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\SearchBox.resx">
+      <DependentUpon>SearchBox.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormMainMenu.resx">
       <DependentUpon>FormMainMenu.cs</DependentUpon>
@@ -124,6 +133,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="icons\icons8-add-new-ios-16-filled-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\icons8-search-more-ios-16-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\icons8-broom-ios-16-glyph-32.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

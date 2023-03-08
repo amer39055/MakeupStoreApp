@@ -93,6 +93,16 @@ namespace MakeupStoreAppUI.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icons8_broom_ios_16_glyph_32 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-broom-ios-16-glyph-32", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap icons8_close_ios_16_filled_32 {
             get {
                 object obj = ResourceManager.GetObject("icons8-close-ios-16-filled-32", resourceCulture);
@@ -136,6 +146,16 @@ namespace MakeupStoreAppUI.Properties {
         internal static System.Drawing.Bitmap icons8_sales_performance_32 {
             get {
                 object obj = ResourceManager.GetObject("icons8-sales-performance-32", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_search_more_ios_16_32 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-search-more-ios-16-32", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
